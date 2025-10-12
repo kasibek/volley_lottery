@@ -45,7 +45,6 @@ class _HomeScreenState extends State<HomeScreen> {
     "Julian",
     "Chris",
     "Linus",
-    "Chris",
     "Domme",
     "Joshua",
     "Lukas",
