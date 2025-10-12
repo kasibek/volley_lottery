@@ -1,5 +1,11 @@
 # volley_lottery
 
+This is an App created using Flutter for my volleyball_team. We can draw positions and pick the setter. 
+Download the latest version apk under releases if you wanna test the app.
+
+Further down is the automatically generated README.md for Flutter projects.
+Look into it if you want to learn stuff about Flutter.
+
 A new Flutter project.
 
 ## Getting Started
